@@ -1,1 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Work+Sans:wght@100&display=swap');
 
+
+* {
+   margin: 0;
+   padding: 0; 
+}
+
+body {
+    font-family: roboto, display fair;
+    background-color: rgb(167, 183, 162);
+}
+
+#logo {
+    float: left;
+    font-size: 50px;
+    font-family: roboto ,display fair;
+    color: black;
+    letter-spacing: 5px;
+    margin-left: 10%;
+}
+
+.navbar {
+    overflow: hidden;
+}
+
+.navbar a {
+    float: right;
+}
